@@ -1,9 +1,11 @@
 ## Codeless Conduct Anthem 
 
 ### Anthem Explainer
-<a href='https://youtu.be/LW80HkEm3sU' target='_blank'><img src='assets/img/cc-thumbnail.png' width='350px'></a>
+<a href='https://rebrand.ly/c8b623' target='_blank'><img src='assets/img/cc-thumbnail.png' width='350px'></a>
 
-<p><a href='https://youtu.be/LW80HkEm3sU' target='_blank'><strong>Codeless Conduct Anthem</strong></a> <img src="https://www.reshot.com/preview-assets/icons/TASPEL2G34/external-link-TASPEL2G34-8cc0c.svg" width="15px"></p>
+<p><a href='https://rebrand.ly/c8b623' target='_blank'><strong>Codeless Conduct Anthem</strong></a> <img src="https://www.reshot.com/preview-assets/icons/TASPEL2G34/external-link-TASPEL2G34-8cc0c.svg" width="15px"></p>
+
+<hr>
 
 ### Anthem Lyrics
 
@@ -17,7 +19,7 @@ Leaders, dreamers, all truth seekers <br/>
 This is an open invitation to anyone who is curious and eager to learn</p>
 
 <p><strong>C O D E L E S S &nbsp; C O N D U C T</strong></p>
-<strong>✨ LET'S GO 🚀 ✨</strong>
+<p><strong>✨ LET'S GO 🚀 ✨</strong> </p>
 
 <p><strong>C</strong> ompleting no-code bounties <br/>
 <strong>O</strong> n the blockchain, yeah we're learning <br/>
@@ -40,6 +42,8 @@ This is an open invitation to anyone who is curious and eager to learn</p>
 </p>
 
 \* Mic drop <strong>🎤</strong> \*
+
+<hr>
 
 ### Anthem (Version II)
 
